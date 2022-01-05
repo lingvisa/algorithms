@@ -1,0 +1,10 @@
+venv
+.idea
+temp
+
+
+#Mac crap
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
